@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+header{ color: #fff;
+ }
+ body{
+   
+ }
+.bg{
+background-color: black;
+}
+
+.banner-presentacion{
+    background-color: #595c5e;
+    align-items: center;
+}
+
+.banner-header{
+    border-radius: 10%;
+   
+}
+
+body{
+    margin: 1050px;
+    background-color: rgb(21, 21, 134);
+   
+    }
+
+footer{ 
+   background-color: black;
+   color: #fff;
+  
+ display: flex;
+    justify-content:center;
+  
+  
+}
+
+.alineacion{
+    align-items: center;
+}
+.imagen-footer{
+    border-radius: 20%;
+}
+.experiencia{
+    font-size:smaller;
+}
+
+
+
+ 
